@@ -41,8 +41,7 @@ This project aims to analyze financial data from Western countries using **Power
   - **Filters & Slicers:** Year, Country, Product, Segment
 
 ## **📌 Power BI Dashboard Preview**
-![Power BI Dashboard]<img width="447" alt="Dashboard" src="https://github.com/user-attachments/assets/8e223722-2ab2-4ca1-bd96-687b7ded99fd" />
-
+<img width="447" alt="Dashboard" src="https://github.com/user-attachments/assets/8e223722-2ab2-4ca1-bd96-687b7ded99fd" />
 
 ## **📌 Key Insights & Business Recommendations**
 ✅ **Top 2 Revenue-Generating Countries:** USA & Canada  
@@ -72,9 +71,9 @@ This project aims to analyze financial data from Western countries using **Power
 
 ## **📞 Contact Information**
 🔹 **Author:** Rohan Kalkumbe  
-🔹 **Email:** [E-Mail] (rohankalkumbe31@gmail.com)  
-🔹 **GitHub:** [GitHub Profile]([https://github.com/your-username](https://github.com/Rohankalkumbe?tab=repositories))  
-🔹 **LinkedIn:** [LinkedIn Profile] (https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/)
+🔹 **Email:** rohankalkumbe31@gmail.com  
+🔹 **GitHub:** https://github.com/Rohankalkumbe  
+🔹 **LinkedIn:** https://www.linkedin.com/in/rohan-kalkumbe-460bb0271/
 
 ---
 
